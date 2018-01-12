@@ -1,6 +1,11 @@
 # cryptolilly
 Cryptolilly - A personal documentation of a simple ethminer testing rig
 
+## Ethereumpool Mining Stats
+* Ethereumpool Public Key: 517e2a43fc6d1d4d0503a16db2490f8017080c9e
+* [Ethereumpool Stats](517e2a43fc6d1d4d0503a16db2490f8017080c9e)
+
+
 ## Physical Location
 In der Ati-Werkstatt Anorg H612. Schlüssel meist im ehemaligen Autoschlüsseldepot an der Türe.
 
