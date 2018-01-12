@@ -45,7 +45,7 @@ fi
 Simple Autostartintegration via crontab (nich via services!)
 ```bash
 crontab -l
-@reboot sleep 90 && bash /home/komkom/ethminer-boot.sh
+@reboot sleep 90 && bash /home/<username>/ethminer-boot.sh
 ```
 
 ### Stop/Kill Miner
