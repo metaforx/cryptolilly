@@ -3,7 +3,7 @@ Cryptolilly - A personal documentation of a simple ethminer testing rig
 
 ## Ethereumpool Mining Stats
 * Ethereumpool Public Key: 517e2a43fc6d1d4d0503a16db2490f8017080c9e
-* [Ethereumpool Stats](517e2a43fc6d1d4d0503a16db2490f8017080c9e)
+* [Ethereumpool Stats](https://ethereumpool.co/stats/miner/?address=0x517e2a43fc6d1d4d0503a16db2490f8017080c9e)
 
 
 ## Physical Location
